@@ -113,11 +113,3 @@ printGoals(game.scored);
 //If it's true, it will print. If not, nothing will happen.
 team1 < team2 && console.log('Team 1 is more likely to win');
 team2 < team1 && console.log('Team 2 is more likely to win');
-// console.log(team1);
-// console.log(team2);
-// console.log(draw);
-//console.log(players1Final);
-// console.log(allPlayers);
-// console.log(team2_gk);
-// console.log(team1_fieldPlayers);
-// console.log(team2_fieldPlayers);
